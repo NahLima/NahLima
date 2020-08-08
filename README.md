@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**NahLima/NahLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Logo](./image/foto-perfil.jpg)
 
-Here are some ideas to get you started:
+Sou a Naiara Lima trabalho no mercado publicitário, sou entusiasta do mercado financeiro e investidora também sou amante e estudante de novas tecnologias. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho um cadelinha chamada Tifany, olha que fofura :
+
+![GitHub Logo](./image/foto-tify.jpg)
+
+Sou aluna do {REPROGRAMA}
+
+
+
