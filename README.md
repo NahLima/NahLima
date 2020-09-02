@@ -7,7 +7,7 @@ __Sou aluna do {REPROGRAMA}__
 
 
 
-[Linkdin](https://www.linkedin.com/in/naiara-lima-up/)
+[Linkedin](https://www.linkedin.com/in/naiara-lima-up/)
 
 
 
