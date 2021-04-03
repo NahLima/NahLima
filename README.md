@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Sou a Naiara Lima trabalho no mercado publicitário, sou entusiasta do mercado financeiro e investidora. Sou amante e estudante de  tecnologia. 
+Sou a Naiara Lima trabalho como desenvolvedora back end, sou entusiasta do mercado financeiro e amante e estudante de  tecnologia. 
 
 
 
