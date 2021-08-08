@@ -1,6 +1,5 @@
-### Olá eu sou a Naiara 👋
+### Olá eu sou a Naiara e atualmente trabalho como BackEnd! 👋
 
-Hoje sou trabalho como BackEnd!
 
 
  <div>
