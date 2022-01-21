@@ -1,4 +1,4 @@
-### Olá eu sou a Naiara e fiz minha transição de carreira este ano(2021),  atualmente trabalho como BackEnd! 👋
+### Olá eu sou a Naiara, atualmente trabalho como BackEnd! 👋
 
 * Faço pós em transformação digital, novas tecnologias e agilidade. 
 * Sou fascinada pelo universo da inteligência artificial e dados!
