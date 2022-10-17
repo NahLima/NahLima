@@ -1,6 +1,7 @@
 ### Olá eu sou a Naiara, atualmente trabalho como BackEnd! 👋
 
-* Estou em fase de Tcc na minha pós em transformação digital, novas tecnologias e agilidade.
+* Tenho especialização em transformação digital, novas tecnologias e agilidade.
+* Futura engenheira 
 * Sou fascinada pelo universo da inteligência artificial e dados!
 * Amo falar sobre investimentos, economia e viagem
 * Sou Apaixonada por animais e a natureza 
