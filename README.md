@@ -1,7 +1,7 @@
-### Olá eu sou a Naiara, atualmente trabalho como BackEnd! 👋
+### Olá eu sou a Naiara, atualmente trabalho como Desenvolvedora BackEnd e Data Analytics! 👋
 
 * Tenho especialização em transformação digital, novas tecnologias e agilidade.
-* Futura engenheira 
+* Sou uma futura engenheira 
 * Sou fascinada pelo universo da inteligência artificial e dados!
 * Amo falar sobre investimentos, economia e viagem
 * Sou Apaixonada por animais e a natureza 
